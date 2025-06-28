@@ -82,11 +82,11 @@
       "name": "iKun资源"
     }
     "xiaoji"  : {
-       " api:" "https://api.xiaojizy.live/provide/vod",
+       " api": "https://api.xiaojizy.live/provide/vod"，
        " name": "小鸡资源"
     },
     " ckzy": {
-         "api": h"ttps://www.ckzy1.com/api.php/provide/vod"，
+         "api": "https://www.ckzy1.com/api.php/provide/vod"，
          "name": "CK资源"
     }，
      "jkun": {
