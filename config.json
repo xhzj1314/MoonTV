@@ -80,7 +80,7 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    },
     "xiaoji"  : {
        " api": "https://api.xiaojizy.live/provide/vod"，
        " name": "小鸡资源"
